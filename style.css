@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    background-color: #222;
+}
+
+/* ゲーム画面を中央に配置 */
+#game-container {
+    display: flex;
+    justify-content: center;
+}
